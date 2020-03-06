@@ -1,6 +1,6 @@
-# Cresça com o Google <img src="img/google.jpg" width="80" height="40" align="right">
+# Cresça com o Google <img src="img/google.jpg" width="45" height="45" align="right">
 
-<img src="img/evnto.png" align="center">
+<img src="img/evento.png" align="center">
 
 Participação no treinamento <b>Oportunidades da Carreira de Desenvolvedor</b> no evento <b>Cresça com o Google</b>, onde foram disponibilizados os materiais abaixo.
 
